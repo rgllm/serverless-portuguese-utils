@@ -1,9 +1,9 @@
 <h1 align="center">
-  Serverless portuguese utils
+  Serverless Portuguese Utils
 </h1>
 
 <h3 align="center">
-  A set of useful utils to validate portuguese data using Cloudflare Workers.
+  A set of useful utils to validate Portuguse 🇵🇹 data using Cloudflare Workers ☁️.
 </h3>
 
 
