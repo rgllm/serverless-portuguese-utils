@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  A set of useful utils to validate Portuguse 🇵🇹 data using Cloudflare Workers ☁️.
+  A set of useful utils to validate Portuguese 🇵🇹 data using Cloudflare Workers ☁️.
 </h3>
 
 
