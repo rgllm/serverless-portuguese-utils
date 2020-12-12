@@ -6,13 +6,12 @@
   A set of useful utils to validate Portuguese 🇵🇹 data using Cloudflare Workers ☁️.
 </h3>
 
-
 <p align="center">
   <a href="https://github.com/rgllm/serverless-portuguese-utils/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="serverless-portuguese-utils is released under the MIT license." />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=rgllm">
-    <img src="https://img.shields.io/twitter/follow/pixelmatters_.svg?label=Follow%20@rgllm" alt="Follow @rgllm" />
+    <img src="https://img.shields.io/twitter/follow/rgllm.svg?label=Follow%20@rgllm" alt="Follow @rgllm" />
   </a>
 </p>
 
